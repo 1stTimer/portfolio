@@ -1,0 +1,80 @@
+body {
+    width: 1200px;
+    height: 1255px;
+}
+
+header {
+    height: 135px;
+}
+
+.picture {
+    width: 400px;
+    position: relative;
+    top: 225px;
+}
+
+
+.picture h5 {
+    width: 400px;
+    text-align: center;
+}
+
+.picture img {
+    height: 300px;
+    width: 400px;
+}
+
+.background {
+    z-index: 1;
+    position: relative;
+    top: 205px;
+}
+
+.family img {
+    width: 300px;
+    height: 300px;
+    
+}
+
+.family h5 {
+    text-align: center;
+    width: 300px;
+}
+
+.family {
+    margin-left: 845px;
+}
+
+.content {
+    margin-left: 500px;
+    z-index: 1;
+    position: relative;
+    top: 200px;
+}
+
+.content p {
+    width: 715px;
+    text-align: left;
+    height: 240px;
+}
+
+.hobbies {
+    z-index: 1;
+    position: relative;
+    bottom: 130px;
+    width: 780px;
+}
+
+.information {
+    position: relative;
+    bottom: 100px;
+    width: 905px;
+}
+
+h1 {
+    color: #4682b4;
+}
+
+footer {
+    text-align: center;
+}
