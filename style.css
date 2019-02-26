@@ -48,8 +48,8 @@ h3 {
 }
 
 .picture img {
-    height: 300px;
-    width: 400px;
+    height: auto;
+    width: 100%;
 }
 
 .work-pic img{
